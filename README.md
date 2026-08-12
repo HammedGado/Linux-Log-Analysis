@@ -53,7 +53,7 @@ A Linux server generated multiple SSH authentication events. The objective of th
 ## Repository Structure
 
 ```
-Linux_Log_Analysis/
+Linux-Log-Analysis/
 │
 ├── Evidence/
 │   └── auth.log
